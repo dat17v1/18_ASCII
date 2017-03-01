@@ -15,7 +15,7 @@ The carriage return is the character used by the Macintosh to represent a new li
 All the rest of the characters above 31 in the lower ascii table are printable, except for forward delete, an apparently late addition which, means to delete the next character.
 
 Lower Ascii Table
-![Lower Ascii Table]()
+![Lower Ascii Table](https://github.com/dat17v1/18_ASCII/raw/master/Materials/lowerasciitable.gif)
 
 ## Upper Ascii Table
 
