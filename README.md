@@ -26,4 +26,4 @@ Upper Ascii Table
 
 
 
-(c) http://www.tntbasic.com/learn/help/guides/asciicodesexplained.htm
+&copy; http://www.tntbasic.com/learn/help/guides/asciicodesexplained.htm
